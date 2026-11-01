@@ -1,0 +1,5 @@
+.git
+.gitignore
+netlify.toml
+README.md
+*.md
