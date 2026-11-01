@@ -12,10 +12,9 @@ package = "@netlify/plugin-nextjs"
   [plugins.inputs]
 
 [build]
-publish = "/Users/digantadas/Projects/dialed-web-main/.next"
+publish = "."
 publishOrigin = "config"
-commandOrigin = "config"
-command = "npm run build"
+commandOrigin = "ui"
 
   [build.environment]
 
